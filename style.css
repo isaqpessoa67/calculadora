@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    padding: 50px;
+    background-color: rgb(49, 49, 49);
+    color: white;
+    width: 300px;
+    height:360px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+input {
+    padding: 9px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 5px;
+    background-color: rgb(87, 87, 87);
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(128, 128, 128);
+    color: black;
+    transition: all 0.3s ease;
+}
+
+span {
+    background-color: rgb(87, 87, 87);
+    padding: 10px;
+    border-radius: 10px;
+}
